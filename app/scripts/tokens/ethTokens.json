@@ -3115,6 +3115,12 @@
     "type": "default"
   },
   {
+    "address": "0x9C8f195e7aDAd1AC1d74834357d4e9A1e92cB360",
+    "symbol": "NMS",
+    "decimal": 8,
+    "type": "default"
+  },
+  {
     "address": "0xd341d1680eeee3255b8c4c75bcce7eb57f144dae",
     "symbol": "onG",
     "decimal": 18,
